@@ -1,13 +1,14 @@
-from distutils.core import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name='test-packaging-rss',
-    version='0.0.1',
-    packages=[''],
+    version='0.0.4',
     url='https://github.com/baobabtr33/test-packaging-rss',
     license='',
     author='Kim Jung Hwan',
-    author_email='',
-    description='test packaging'
+    packages=setuptools.find_packages(),
+    author_email='author@example.com',
+    description='test packaging',
+    setup_requires=['wheel']
 )
 
