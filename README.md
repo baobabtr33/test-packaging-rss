@@ -2,18 +2,16 @@
 
 패키징 Test  
 
-Test Pypi Link:
+Test Pypi Link:  
 https://test.pypi.org/project/test-packaging-rss/  
-
+  
+  
+## Installation
 <pre>
 <code>
-public class BootSpringBootApplication {
-  public static void main(String[] args) {
-    System.out.println("Hello, Honeymon");
-  }
-
-}
+  $ python - m pip install -i https://test.pypi.org/simple/ test-packaging-rss
+  $ python - m pip install feedparser
 </code>
 </pre>
-
-* 이메일링크: <address@example.com>
+  
+  
