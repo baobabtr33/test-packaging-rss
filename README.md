@@ -15,3 +15,9 @@ https://test.pypi.org/project/test-packaging-rss/
 </pre>
   
   
+## Installation2 
+<pre>
+<code>
+  $ python - m pip pip install --upgrade test-packaging-rss
+</code>
+</pre>
