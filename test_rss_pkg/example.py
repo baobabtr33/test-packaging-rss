@@ -1,4 +1,4 @@
-import RSSreader
+from test_rss_pkg import RSSreader
 from dateutil.parser import parse
 
 print("example loaded")
