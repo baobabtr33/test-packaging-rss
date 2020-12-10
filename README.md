@@ -21,3 +21,15 @@ https://test.pypi.org/project/test-packaging-rss/
   $ python - m pip install --upgrade test-packaging-rss
 </code>
 </pre>
+
+## Example
+
+<pre>
+<code>
+  $ python
+  >>> import test_rss_pkg  
+  test rss pkg loaded  
+  >>> import test_rss_pkg.RSSreader  
+  RSSreader.py loaded  
+</code>
+</pre>
