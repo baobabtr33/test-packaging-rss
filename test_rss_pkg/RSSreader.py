@@ -4,6 +4,7 @@ from datetime import datetime, timedelta
 import pandas as pd
 import logging.config
 
+print("RSSreader.py loaded")
 
 def new_rss(date_tracker):
     """
