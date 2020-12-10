@@ -1,4 +1,4 @@
-from test_rss_pkg import RSSreader
+from test_rss_pkg import RSSreader  # from . import RSSreader (relative path 가 인식 x)
 from dateutil.parser import parse
 
 print("example loaded")
