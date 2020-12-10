@@ -4,6 +4,9 @@
 
 Test Pypi Link:  
 https://test.pypi.org/project/test-packaging-rss/  
+
+Pypi: 
+https://pypi.org/project/test-packaging-rss  
   
   
 ## Installation
